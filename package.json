@@ -1,0 +1,23 @@
+{
+  "name": "Meteor",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^1.2.2",
+    "babel-runtime": "^6.20.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "graphql": "^0.9.6",
+    "graphql-server-express": "^0.7.2",
+    "graphql-tag": "^2.0.0",
+    "graphql-tools": "^0.11.0",
+    "meteor-node-stubs": "~0.2.4",
+    "mongoose": "^4.9.8",
+    "react": "^15.5.4",
+    "react-addons-pure-render-mixin": "^15.5.2",
+    "react-apollo": "^1.2.0",
+    "react-dom": "^15.5.4"
+  }
+}
